@@ -1,0 +1,24 @@
+
+body {
+    text-align: center;background-color: #FFEAE3;
+}
+
+h1 {
+    color:darkred;
+}
+
+h2 {
+    color:lightcoral;
+}
+
+h3 {
+    color: cadetblue;
+}
+
+h4 {
+    color: crimson;
+}
+
+body{
+    list-style-position: inside;
+}
